@@ -1,0 +1,58 @@
+.sky-blue-text {
+    color: skyblue;
+}
+
+.form-control {
+    width: 300px;
+}
+
+.link {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+input[type=text],
+input[type=password] {
+    color: cyan;
+    background-color: lightgray;
+    /* background-color: white; */
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+    color: white;
+    background-color: lightblue;
+}
+
+/* #################################### login #################################### */
+.link:hover {
+    color: mediumspringgreen;
+}
+
+.login-page-bg {
+    background-image: url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-color: #cccccc;
+    opacity: 0.9;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 91.5vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.login-text {
+    color: mistyrose;
+}
+
+.login-shadow {
+    border: 1px solid black;
+    box-shadow: 0 0 12px lightcoral, 0 0 12px lightcoral;
+    padding: 30px;
+}
+
+/* #################################### Sign up #################################### */
+
